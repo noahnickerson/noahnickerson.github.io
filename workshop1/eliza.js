@@ -227,7 +227,7 @@ var rules = {
   ],
   "~*x noah ~*y": [
     "You are my creator."
-
+});
 var default_responses = [
   "Very interesting",
   "I am not sure I understand you fully",
