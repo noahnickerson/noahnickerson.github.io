@@ -225,7 +225,8 @@ var rules = {
   "~*x perhaps ~*y": [
     "You do not seem quite certain",
   ],
-};
+  "~*x noah ~*y": [
+    "You are my creator."
 
 var default_responses = [
   "Very interesting",
